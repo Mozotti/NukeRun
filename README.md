@@ -2,6 +2,8 @@
 
 # Instruçoes:
 
-Mover:A/D ou Setas
-Pulo: espaço
-Pause: esc
+Mover:A/D ou Setas 
+
+Pulo: espaço 
+
+Pause: esc n

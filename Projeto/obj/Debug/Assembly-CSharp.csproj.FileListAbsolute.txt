@@ -1,0 +1,2 @@
+C:\Users\zemor\Documents\Unity Projects\NukeRunGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\zemor\Documents\Unity Projects\NukeRunGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

@@ -1,6 +1,6 @@
 # NukeRun
 
-# Instruçoes:
+# Instruções:
 
 Mover: A/D ou Setas 
 

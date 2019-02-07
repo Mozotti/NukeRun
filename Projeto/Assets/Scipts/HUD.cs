@@ -91,7 +91,7 @@ public class HUD : MonoBehaviour
 
     public void ocultaTela()
     {
-        totalMoedas = 0;
+        moedas = 0;
         calculaScore = 0;
         menuPrincipal.SetActive(false);
         

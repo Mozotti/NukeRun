@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     public bool pausado;
     public GameObject Player;
     private HUD _hud;
+    
 
     private void Start()
     {
@@ -20,7 +21,6 @@ public class GameManager : MonoBehaviour
         _hud.mostraScoreboard();
         if (gameOver == true)
         {
-            //Time.timeScale = 0;
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 //Time.timeScale = 1;

@@ -23,6 +23,10 @@ public class Moeda : MonoBehaviour
             Destroy(this.gameObject);
 
         }
+        if(other.tag == "Moeda" || other.tag == "Caixote")
+        {
+            Destroy(this.gameObject);
+        }
     }
 
     void Update()

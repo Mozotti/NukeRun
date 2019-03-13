@@ -28,12 +28,9 @@ public class Caixote : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Player")
+        if (other.tag == "Player" || other.tag == "Moeda" || other.tag == "Caixote")
         {
-
             Destroy(this.gameObject);
         }
     }
 }
-
-
